@@ -62,7 +62,7 @@ psql -h localhost -p 5432 -U user -d exove-db
 ```
 Password is `password`.
 
-The query can be found in the file query.sql. You can run it directly in the psql console.
+The query can be found in the file task.sql. You can run it directly in the psql console.
 
 You might want to remove the postgresqlcontainer and volume after you are done with the task, or in case you would like to do a fresh recreate.
 
